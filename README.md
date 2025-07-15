@@ -16,6 +16,14 @@ You can see the live version of my portfolio here:
 
 ## 📁 Project Structure
 
+```
+portfolio/
+├── portfolio.html      # Main HTML file
+├── style.css           # CSS styles
+├── cv.pdf              # My CV
+└── README.md           # Project overview file
+
+```
 
 ## 🛠️ Technologies Used
 
