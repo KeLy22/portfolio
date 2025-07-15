@@ -12,15 +12,9 @@ I specialize in creating clean, responsive, and interactive websites using HTML,
 
 You can see the live version of my portfolio here:  
 **[https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)**  
-(Replace with your actual GitHub Pages link after deploying)
+*(Replace with your actual GitHub Pages link after deploying)*
 
 ## 📁 Project Structure
-
-portfolio/
-├── portfolio.html
-├── style.css
-├── cv.pdf
-└── README.md
 
 
 ## 🛠️ Technologies Used
